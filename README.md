@@ -1,3 +1,11 @@
+# 📌 Important Points:
+
+Repository Link:
+[https://github.com/Puneetharajkr/novel-office-react-js-loan-EMI-calculator-diff-currenecies.git
+]()
+
+Published Link: [https://novel-office-react-js-loan-emi-calculator-diff-currenecies.vercel.app/]()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -234,3 +242,11 @@ cd loan-calculator-app
 - Currency formatting updates **only after clicking the "CALCULATE" button** .
 - The **"RESET TABLE"** button clears the amortization table and resets necessary state without refreshing the page.
 - Currency symbols and digit formatting follow international standards (e.g., `$`, `₹`, `€`).
+
+# 📌 Important Points:
+
+Repository Link:
+[https://github.com/Puneetharajkr/novel-office-react-js-loan-EMI-calculator-diff-currenecies.git
+]()
+
+Published Link: [https://novel-office-react-js-loan-emi-calculator-diff-currenecies.vercel.app/]()
